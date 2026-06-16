@@ -1,0 +1,13 @@
+{
+  "experimentalServices": {
+    "frontend": {
+      "root": "mizu",
+      "routePrefix": "/",
+      "framework": "vite"
+    },
+    "backend": {
+      "root": "backend",
+      "routePrefix": "/api"
+    }
+  }
+}
